@@ -1,0 +1,10 @@
+﻿  Board.cpp
+  ConnectFour.cpp
+  GameConnectFour.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 376 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConnectFour.vcxproj -> C:\Users\emman\source\repos\ConnectFour\x64\Release\ConnectFour.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
